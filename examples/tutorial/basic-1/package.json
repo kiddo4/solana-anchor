@@ -15,5 +15,8 @@
   },
   "scripts": {
     "test": "anchor test --skip-lint && anchor clean"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.30.1"
   }
 }
